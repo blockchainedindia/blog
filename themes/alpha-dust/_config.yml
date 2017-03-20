@@ -5,7 +5,7 @@ fa_logo: fa-chain
 menu:
   Home: /
   Archives: /archives
-#  About: /about.html
+  About: /about
 #  Contact: /contact.html
 
 # Default post title
