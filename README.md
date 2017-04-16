@@ -20,6 +20,19 @@ hexo new post post-name
 
 ```
 
+## Write New Draft
+
+```
+hexo new draft post-name
+
+```
+
+## Publish a Draft
+
+```
+hexo publish post-name
+```
+
 ## Add New Page
 
 ```
@@ -37,13 +50,6 @@ Or you can [learn quick markdown](https://github.com/adam-p/markdown-here/wiki/M
 
 ```
 hexo server
-```
-
-
-## Publish a Post
-
-```
-hexo publish
 ```
 
 
