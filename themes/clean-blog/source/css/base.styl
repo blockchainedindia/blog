@@ -12,7 +12,9 @@ p
 
 p, li
   a
-    text-decoration underline
+    text-decoration none
+    &:hover, &:focus
+      text-decoration none
 
 h1, h2, h3, h4, h5, h6
   @extend .sans-serif
@@ -184,7 +186,7 @@ hr.small
       color gray-dark
       &:hover, &:focus
         color brand-primary
-        text-decoration underline
+        text-decoration none
   @media only screen and (min-width: 768px)
     > a
       > .post-title
