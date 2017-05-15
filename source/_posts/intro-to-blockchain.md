@@ -2,6 +2,7 @@
 title: Intro To Blockchain
 subtitle: Everything you need to about blockchain to get started
 date:   2017-05-11
+author: Kumar Anirudha
 categories: ["blockchain", "intro"]
 tags: ["blockchain", "intro", "bitcoin"]
 icon: fa fa-link
