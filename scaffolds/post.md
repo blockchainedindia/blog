@@ -1,11 +1,8 @@
 ---
 title: {{ title }}
-date: {{ date }}
-tags:
-title: {{ title }}
 subtitle:
 date: {{ date }}
-author:
+author: Kumar Anirudha
 categories: ["blockchain"]
 tags: ["blockchain"]
 icon:
