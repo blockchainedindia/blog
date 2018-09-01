@@ -1,4 +1,4 @@
-# [Blockchained India Blog](http://blog.blockchainedindia.com)
+# [Blockchained India Blog][deprecated] Now at https://medium.com/blockchainedindia
 
 
 ## Structure
